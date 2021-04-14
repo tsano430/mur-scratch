@@ -1,7 +1,7 @@
 Implementation of Multiplicative Update Rules
 ----
 
-NMF is the approximation of a given nonnegative matrix by two nonnegative matrices, and its optimization has widly used multiplicative update rules (MUR). This repository gives you the MUR algorithms that is implemented in Python. The codes have various error functions such as euclidean distance, I-divergence, and so on.
+NMF is the approximation of a given nonnegative matrix by two nonnegative matrices, and its optimization has widely used multiplicative update rules (MUR). This repository gives you the MUR algorithms that is implemented in Python. The codes have various error functions such as euclidean distance, I-divergence, and so on.
 
 References
 ----
